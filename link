@@ -3,3 +3,18 @@ https://github.com/cloud-hypervisor/cloud-hypervisor/commits?author=renlei4
 https://github.com/cloud-hypervisor/cloud-hypervisor/commits?author=up2wing
 rust-intall:https://segmentfault.com/a/1190000039984109#item-2
 bytedance---https://github.com/zhangjaycee/real_tech/wiki/virtualcatalog
+
+vs code rust-analyzer failed to load workspace
+issue: 
+https://github.com/rust-analyzer/rust-analyzer/issues/4172
+solution: 
+https://www.codercto.com/a/9928.html
+https://www.gitmemory.com/issue/rust-analyzer/rust-analyzer/6193/706519986
+https://segmentfault.com/a/1190000039984109#item-2
+https://github.com/rust-analyzer/rust-analyzer/pull/5586
+https://cn.bing.com/search?q=RUST_SRC_PATH&qs=n&form=QBRE&sp=-1&pq=rust_src_path&sc=0-13&sk=&cvid=59405B8772474426ACE2FC82B727B48C
+https://github.com/rust-lang/rustup/issues/742
+
+https://www.cnblogs.com/silentdoer/p/13263390.html
+https://www.cnblogs.com/skzxc/p/12129353.html
+https://www.cnblogs.com/a208606/p/9929400.html
